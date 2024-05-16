@@ -52,9 +52,13 @@ try:
     # commit configuration
     output = net_connect.commit()
     print(output)
+
+    # commit configuration
+    output = net_connect.save_config()
+    print(output)
     
     # op-mode commands
-    output = net_connect.send_command("run show interfaces")
+    output = net_connect.send_command("show interfaces")
     print(output)
 
     # Cerramos la conexión
