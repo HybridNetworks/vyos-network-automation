@@ -1,4 +1,4 @@
-[![Logo](https://raw.githubusercontent.com/HybridNetworks/vyos-network-automation/res/vyos-python-horizontal.png)](https://github.com/HybridNetworks/vyos-network-automation)
+[![Logo](https://raw.githubusercontent.com/HybridNetworks/vyos-network-automation/main/res/vyos-python-horizontal.png)](https://github.com/HybridNetworks/vyos-network-automation)
 
 # VyOS Network Automation with Python Course
 
